@@ -73,6 +73,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ![Screenshot 2024-04-30 140554](https://github.com/vk123456/E-Commerce-ReactJs/assets/65404913/c65b39d8-852e-4f03-a6bb-504e34975e50)
 
+![Screenshot 2024-05-02 095121](https://github.com/vk123456/E-Commerce-ReactJs/assets/65404913/6c11a1c2-f30c-488f-8dbe-7849d47e34a7)
+
+![Screenshot 2024-05-02 095212](https://github.com/vk123456/E-Commerce-ReactJs/assets/65404913/3aad412b-08b1-4114-9604-15e698376f26)
+
 ![Screenshot 2024-04-30 140629](https://github.com/vk123456/E-Commerce-ReactJs/assets/65404913/43b62f4d-9b61-4f46-8c73-94d88278518a)
 
 
